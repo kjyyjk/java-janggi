@@ -1,3 +1,12 @@
+### 🗓️ 미션 일정
+
+| 단계  | 내용        | 기간                      | PR 링크 |
+|-------|------------|---------------------------|---------|
+| Step1 | 보드 초기화 및 기물 이동 | 2025.03.18 ~ 2025.03.28   | [PR](https://github.com/woowacourse/java-janggi/pull/19) |
+| Step2 | 기물 확장 및 DB 적용 | 2025.03.28 ~ 2025.04.06   | [PR](https://github.com/woowacourse/java-janggi/pull/144) |
+
+🔗 [미션 회고](https://kjyyjk.tistory.com/376)
+
 # java-janggi
 
 장기 미션 저장소
